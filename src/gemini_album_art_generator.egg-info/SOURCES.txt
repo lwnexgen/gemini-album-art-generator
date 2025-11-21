@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/gemini_album_art_generator.egg-info/PKG-INFO
+src/gemini_album_art_generator.egg-info/SOURCES.txt
+src/gemini_album_art_generator.egg-info/dependency_links.txt
+src/gemini_album_art_generator.egg-info/requires.txt
+src/gemini_album_art_generator.egg-info/top_level.txt

@@ -47,11 +47,10 @@ Repository = "https://github.com/lwnexgen/gemini-album-art-generator"
 Issues = "https://github.com/lwnexgen/gemini-album-art-generator/issues"
 
 [tool.setuptools.packages.find]
-where = ["."]
-include = ["src*"]
+where = ["src"]
 
 [tool.setuptools.package-dir]
-"" = "."
+"" = "src"
 
 [tool.black]
 line-length = 88
@@ -102,6 +101,6 @@ exclude_lines = [
     "def __repr__",
     "raise AssertionError",
     "raise NotImplementedError",
-    "if __name__ == .__main__.:",
+    "if __name__ == '__main__':",
     "if TYPE_CHECKING:",
 ]
