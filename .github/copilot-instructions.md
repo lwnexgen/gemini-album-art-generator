@@ -2,7 +2,12 @@
 
 ## Project Overview
 
-This project generates album art for bootleg concert recordings using the Google Gemini API. The system takes concert metadata in JSON format and creates appropriate album artwork.
+This is a Python project that generates album art for bootleg concert recordings using the Google Gemini API. The system takes concert metadata in JSON format and creates appropriate album artwork.
+
+## Project Structure
+
+- **src/**: Python source code directory containing all application modules
+- **pyproject.toml**: Python project configuration and dependencies
 
 ## Project Purpose
 

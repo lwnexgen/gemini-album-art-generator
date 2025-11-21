@@ -1,6 +1,10 @@
 # Gemini Album Art Generator
 
-This project aims to generate album art for bootleg concert recordings based on metadata that is provided in JSON format.
+This is a Python project that generates album art for bootleg concert recordings based on metadata that is provided in JSON format.
+
+## Project Structure
+
+The source code is organized in the `src` directory following standard Python project conventions.
 
 ## Input Format
 
